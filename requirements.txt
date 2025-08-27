@@ -1,0 +1,8 @@
+streamlit
+trafilatura
+requests
+fpdf2
+beautifulsoup4
+markdown
+selenium
+webdriver-manager
